@@ -1,0 +1,23 @@
+{
+  "name": "angular-yii-example",
+  "version": "0.0.1",
+  "description": "An example of using angular.js with yii.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IndeedPlusPlus/angular-yii-example.git"
+  },
+  "keywords": [
+    "angular",
+    "php",
+    "yii"
+  ],
+  "author": "Indeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IndeedPlusPlus/angular-yii-example/issues"
+  },
+  "homepage": "https://github.com/IndeedPlusPlus/angular-yii-example"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "angular-yii-example",
+  "version": "0.0.1",
+  "authors": [
+    "Indeed <indeed@indeedblog.net>"
+  ],
+  "description": "An example of using angular.js with yii.",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "php",
+    "yii"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ]
+}
