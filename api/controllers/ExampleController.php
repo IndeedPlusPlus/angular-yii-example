@@ -23,6 +23,11 @@ class ExampleController extends Controller
         $luohe->github = 'https://github.com/LukeHe';
         $contributors[] = $luohe;
 
+        $jsxuruc = new Developer();
+        $jsxuruc->name = 'JieXu';
+        $jsxuruc->github = 'https://github.com/jsxuruc';
+	$contributors[] = $jsxuruc;
+
         return $contributors;
     }
 }
