@@ -18,6 +18,11 @@ class ExampleController extends Controller
         $indeed->github = 'https://github.com/IndeedPlusPlus';
         $contributors[] = $indeed;
 
+        $jsxuruc = new Developer();
+        $jsxuruc->name = 'JieXu';
+        $jsxuruc->github = 'https://github.com/jsxuruc';
+        $contributors[] = $jsxuruc;
+
         return $contributors;
     }
 }
