@@ -18,6 +18,11 @@ class ExampleController extends Controller
         $indeed->github = 'https://github.com/IndeedPlusPlus';
         $contributors[] = $indeed;
 
+        $luohe = new Developer();
+        $luohe->name = 'LuoHe';
+        $luohe->github = 'https://github.com/LukeHe';
+        $contributors[] = $luohe;
+
         return $contributors;
     }
 }
